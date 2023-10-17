@@ -1,11 +1,10 @@
 
->Name     : Bhoumik Sundaram
->PRN      : 22070123034
->Branch   : Electronics and Telecommunication
->Division : A 
+>Student Name     : Bhoumik Sundaram  ||
+>PRN No.      : 22070123034  ||
+>Branch   : Electronics and Telecommunication Engineering  ||
+>Division : A  ||
 > Topics Covered：[Basic IO operations, Conditionals and Loops, Opertors, Array, Strings, Pointers and Classes]
 >
-> Prepared By : [Ashish Balsure (22070123030)]
 
 ### Section 1: Basic IO Operations
 > How to get User Input in C++
