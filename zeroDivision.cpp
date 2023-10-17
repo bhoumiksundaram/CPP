@@ -1,4 +1,5 @@
-#include <iostream>
+#include<iostream>
+using namespace std;
 
 double getNumber() {
     double temp {};
