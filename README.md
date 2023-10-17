@@ -4,8 +4,6 @@
 >Branch   : Electronics and Telecommunication Engineering  ||
 >Division : A  ||
 > Topics Covered：[Basic IO operations, Conditionals and Loops, Opertors, Array, Strings, Pointers and Classes]
->
-
 ### Section 1: Basic IO Operations
 > How to get User Input in C++
 >
