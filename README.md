@@ -1,4 +1,3 @@
-
 >Student Name     : Bhoumik Sundaram  ||
 >PRN No.      : 22070123034  ||
 >Branch   : Electronics and Telecommunication Engineering  ||
@@ -6,7 +5,7 @@
 > Topics Covered：[Basic IO operations, Conditionals and Loops, Opertors, Array, Strings, Pointers and Classes]
 ### Section 1: Basic IO Operations
 > How to get User Input in C++
->
+
 > 1. istream is used for inputs, to access it use iostream header.
 > 2. istream has overloaded the right bit shift operator, so to do inputs right operand of ">>" operator must be an istream object. 
 > 3. std::cin >> age (This code will store whatever is entered in input stream to age variable assuming the input entered is appropriate for the type of the variable)
