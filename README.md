@@ -82,7 +82,7 @@
 >
 #### C-Style String
 > 1. These are a bit tricky to work with as compared to std::string, they are basically an array of character in which last element of array is a null terminator ('\0')
-> 2. C-Style strings can be declared as follows: char str[10] = "ashish"
+> 2. C-Style strings can be declared as follows: char str[10] = "Hello"
 > 3. Here we need to declare the size of the string+1 for the null terminator character.
 > 4. They're fixed in size, they cannot be allocated more memory once created.(simply they cannot be modified)
 #### std::string 
@@ -94,8 +94,8 @@
 > 1. string_view are similar to std::string but they are read-only
 > 2. when we pass these by value to function parameters, they do not make copies.
 #### Example of std::string and std::string_view objects
-> 1. std::string x {"ashish"};
-> 2. std::string_view x {"ashish"};
+> 1. std::string x {"Hello"};
+> 2. std::string_view x {"Hello"};
 >
 ### Section 7: Classes
 >
