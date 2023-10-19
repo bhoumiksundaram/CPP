@@ -110,10 +110,11 @@
 >    * public    : members can be accessed from outside the class
 >    * private   : members cannot be accessed or viewed from outside the class. 
 >    * protected : members cannot be accessed outside of class, they can be accessed in inherited class.
-
-
-
-
+#### Section 8: Exception Handling 
+>
+> Exceptions are runtime anomalies or abnormal conditions that a program encounters during its execution.
+> There are two types of exceptions: a)Synchronous and b)Asynchronous
+>
 
 
 
